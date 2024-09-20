@@ -1,0 +1,471 @@
+"appid" "2771110"
+"common"
+{
+	"name" "Palworld - Soundtrack"
+	"type" "Music"
+	"parent" "1623730"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"name_localized"
+	{
+		"japanese" "Palworld / パルワールド - Soundtrack"
+		"schinese" "Palworld / 幻兽帕鲁 - Soundtrack"
+		"tchinese" "Palworld / 幻獸帕魯 - Soundtrack"
+	}
+	"icon" "606e637a2f0610f3805893e917c0e22d1d043ba6"
+	"clienticon" "22a20bdaa6d782f60caa45eb7b02fc2411dcd988"
+	"clienttga" "2032a63848f1ab00b518b7e984bd533c1ce0cf07"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1705494227"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pocketpair"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pocketpair"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_50" "1"
+	}
+	"steam_release_date" "1705651204"
+	"gameid" "2771110"
+	"exfgls" "6"
+	"store_tags"
+	{
+	}
+	"review_score" "5"
+	"review_percentage" "51"
+}
+"extended"
+{
+	"musicalbumforappid" "1623730"
+	"developer" "Pocketpair"
+	"publisher" "Pocketpair"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Palworld"
+}
+"depots"
+{
+	"2771111"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3910305600748165279"
+				"size" "147503148"
+				"download" "133128880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private"
+			{
+				"gid" "210C3176B5948F31A565C080045BE15B"
+				"size" "6C44DCBFBEB5E58DB4A1A1833A852D7B"
+				"download" "07577334147F81A70718E1D2B966A829"
+			}
+		}
+	}
+	"2771112"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6217814804045301252"
+				"size" "739906974"
+				"download" "715290784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private"
+			{
+				"gid" "FBC78E85003EA3FABEB499A7E46365C4"
+				"size" "C1FAD592DB14D1CE4E53C500185F4D35"
+				"download" "CC6851C6838F7A7078EBD450E48B7245"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14840834"
+			"timeupdated" "1719457119"
+		}
+		"private"
+		{
+			"buildid" "14840834"
+			"pwdrequired" "1"
+			"timeupdated" "1719382894"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover_localized"
+		{
+		}
+		"album_cover" "df7097d0eb8f171c36409115c831e17bc628e34d"
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "The Beginning"
+			"m" "3"
+			"s" "48"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Uninvited"
+			"m" "2"
+			"s" "40"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Fur-st Contact"
+			"m" "1"
+			"s" "15"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Scrambled Party"
+			"m" "1"
+			"s" "30"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Brutal Strike"
+			"m" "1"
+			"s" "44"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Savage Dudes"
+			"m" "2"
+			"s" "8"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Engraved in Myth"
+			"m" "2"
+			"s" "31"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Introduction Axel"
+			"m" "0"
+			"s" "30"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Introduction Lily"
+			"m" "0"
+			"s" "34"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Introduction Marcus"
+			"m" "0"
+			"s" "42"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Introduction Victor"
+			"m" "0"
+			"s" "36"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Introduction Zoe"
+			"m" "0"
+			"s" "37"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Bosses"
+			"m" "2"
+			"s" "57"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "Proto-Palworld"
+			"m" "1"
+			"s" "30"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "Hello, Palworld !!"
+			"m" "1"
+			"s" "29"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "Welcome to the Pal Fes !!"
+			"m" "1"
+			"s" "0"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "Theme of Palworld"
+			"m" "3"
+			"s" "4"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "Chaos Unleashed"
+			"m" "3"
+			"s" "0"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Pal Catcher_A"
+			"m" "1"
+			"s" "56"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "Ruthless Dominion"
+			"m" "2"
+			"s" "41"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "Introduction Saya"
+			"m" "0"
+			"s" "36"
+		}
+		"21"
+		{
+			"discnumber" "1"
+			"tracknumber" "22"
+			"originalname" "Arena Anthem"
+			"m" "2"
+			"s" "26"
+		}
+		"22"
+		{
+			"discnumber" "1"
+			"tracknumber" "23"
+			"originalname" "Prelude to Confrontation"
+			"m" "1"
+			"s" "52"
+		}
+		"23"
+		{
+			"discnumber" "1"
+			"tracknumber" "24"
+			"originalname" "Pals in Full Bloom"
+			"m" "1"
+			"s" "30"
+		}
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" "矢野達也"
+			"english" "Tatsuya Yano"
+			"koreana" ""
+		}
+		"composer"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" "矢野達也"
+			"english" "Tatsuya Yano"
+			"koreana" ""
+		}
+		"label"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" ""
+			"english" ""
+			"koreana" ""
+		}
+		"othercredits"
+		{
+			"arabic" ""
+			"italian" ""
+			"indonesian" ""
+			"ukrainian" ""
+			"dutch" ""
+			"greek" ""
+			"swedish" ""
+			"spanish" ""
+			"latam" ""
+			"thai" ""
+			"czech" ""
+			"danish" ""
+			"turkish" ""
+			"german" ""
+			"norwegian" ""
+			"hungarian" ""
+			"finnish" ""
+			"french" ""
+			"bulgarian" ""
+			"vietnamese" ""
+			"brazilian" ""
+			"portuguese" ""
+			"polish" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"tchinese" ""
+			"japanese" ""
+			"english" ""
+			"koreana" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24136656"
+"_sha" "a00aa55d3ebf0c8486200fb7b90b6c73ba20ca1a"
+"_size" "7865"
