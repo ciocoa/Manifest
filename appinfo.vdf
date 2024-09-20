@@ -1,0 +1,562 @@
+"appid" "1566690"
+"common"
+{
+	"name" "Outpost: Infinity Siege"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "重装前哨"
+		"tchinese" "重裝前哨"
+	}
+	"icon" "3306a61bd0f1456aca256ea26e2371f724ae4c43"
+	"clienticon" "ddccceee48630e9a2922a813fa955c5c00e7ad76"
+	"clienttga" "6fb2d516edea102d7078c5d7696bd7fbad71345c"
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "99.74143503555268"
+			"height_pct" "75.92944404865565"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "99.74143503555268"
+				"height_pct" "75.92944404865565"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"schinese" "logo_schinese_2x.png"
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1722336803"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team Ranger"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lightning Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Lightning Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711468692"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1566690"
+	"store_tags"
+	{
+		"0" "5752"
+		"1" "4191"
+		"2" "7332"
+		"3" "1645"
+		"4" "1663"
+		"5" "8945"
+		"6" "1685"
+		"7" "3835"
+		"8" "4182"
+		"9" "3942"
+		"10" "255534"
+		"11" "9"
+		"12" "353880"
+		"13" "4168"
+		"14" "1774"
+		"15" "1695"
+		"16" "1676"
+		"17" "1662"
+		"18" "1702"
+		"19" "19"
+	}
+	"review_score" "5"
+	"review_percentage" "67"
+}
+"extended"
+{
+	"developer" "Team Ranger"
+	"publisher" "Lightning Games"
+	"homepage" "https://www.outpostgame.net/"
+	"listofdlc" "2897530"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Outpost"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "U01.exe"
+			"arguments" "-dx12"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1566690"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1566691"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8519820064211078305"
+				"size" "39822502657"
+				"download" "34473045456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"20230526"
+			{
+				"gid" "45B0412CDC2A3DB76D564346365048EC"
+				"size" "22BDFEB7C8C9D2034C8BB233AC7257C7"
+				"download" "B88A36B1F8CCA1E9969F82069E840569"
+			}
+			"betav5_1"
+			{
+				"gid" "FFB8D850D4CCA0642572158E0A5EA084"
+				"size" "41347B4BB73F0983B19D2CE6748A138A"
+				"download" "2D9B141EA0C5990F1728C0656C9C11FD"
+			}
+			"betav5_2"
+			{
+				"gid" "E81DEE25326EF61E13F50A6DA29E5244"
+				"size" "FF398789A6220BFFEDE507F7BBC3C379"
+				"download" "555C6DCD49A6E252B4757C53304A5665"
+			}
+			"compatibility"
+			{
+				"gid" "A69F795FF12F324F20624F4AF0B05606"
+				"size" "DD6D8138C3858301D9AD9BF2541A127B"
+				"download" "70ED25A64A51D17674D4EE662472FCC3"
+			}
+			"lqabranch"
+			{
+				"gid" "B6D8F59BBA7486F011FCF5EAC75B2EC0"
+				"size" "C2BAD3178E8469F54AF8605673F0EB0A"
+				"download" "4C05EE5CB1875ED6A58F93B8C6D867F4"
+			}
+			"profiler"
+			{
+				"gid" "AE6B0E51BE5CD8196AA362AC03F7B4AF"
+				"size" "8C0EA5106DDF1CCF1453D8BAB5DA2F3F"
+				"download" "A5930CDE7DAF4F543C864DF1C4D5C254"
+			}
+			"releasev0.3"
+			{
+				"gid" "3E3AC4A83C37EA2B49180881C76BAB15"
+				"size" "825F5DC79475902333C4094B85702F0F"
+				"download" "3B95F4D267AB790C2B36F8BBB8B9E5C4"
+			}
+			"releasev0.4"
+			{
+				"gid" "652314EE3C1C2A3E5751203D1270E7CF"
+				"size" "C13E52732A9339FA5FBAABBBEB1022FF"
+				"download" "DC237106A64A6D619649A96B65906271"
+			}
+			"releasev0.5"
+			{
+				"gid" "FB87ECBB28DCF1F9C7C69577222347BA"
+				"size" "6A611FAE904ADA628269FCCB061184E9"
+				"download" "E2EED91838B9203AC90A40BA557701A6"
+			}
+			"develop"
+			{
+				"gid" "034B81164F31DF631CEC4818D8D8EBB3"
+				"size" "A8CE2406E4F748BD350F8BF5C3FF3D5D"
+				"download" "58A26CAF6A9B530980BEF15828D64AA3"
+			}
+			"prepublish"
+			{
+				"gid" "1A41FD5D1BAE122D8A19F3247166DEFE"
+				"size" "0843CBDC7312A55E0B6793A328F185B7"
+				"download" "4C914498980823F1ACE0ABE46BD357C8"
+			}
+			"ptr_release"
+			{
+				"gid" "AADDC1312BF267F4041287097B8FE79D"
+				"size" "3FCCBEC11E4DC9897E00779A22ADE890"
+				"download" "44175A6C7B9C9C49431C91AED11B0CEF"
+			}
+			"ptr_v1"
+			{
+				"gid" "25503D1C968DD9A6E469E0280A172E6E"
+				"size" "509B83E8ECF6BA76544B04F1926E77AD"
+				"download" "436E142ACDBD8EDA4CC3E63383D0E117"
+			}
+		}
+	}
+	"1566693"
+	{
+		"dlcappid" "2897530"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3031413575739892608"
+				"size" "1"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"releasev0.4"
+			{
+				"gid" "3C2589C13FE5362D4B23A20C0508A0AF"
+				"size" "5C6BAE4394E9131F601C438DCBFB8824"
+				"download" "85B46231652548E32657006F15AB270B"
+			}
+			"releasev0.5"
+			{
+				"gid" "410DB3792F7809E894898751DBEC0FF8"
+				"size" "C377D48F3FE15A584E796DFA5008FEAB"
+				"download" "6E61ADD993FD00ACD9BF4178A65B689F"
+			}
+			"develop"
+			{
+				"gid" "928E9EEC4AC3ECD291A11E22D04DDE56"
+				"size" "220A8B4C262A6C3AD6E8857FB80FB3BC"
+				"download" "C49A05597E44831925C10D0661DD6850"
+			}
+			"ptr_release"
+			{
+				"gid" "DF66174213358713D1A49A43EE9133A4"
+				"size" "54C8B64D8691BC2A4118DFBCCAE9393D"
+				"download" "3B7E6BBAE810D2FC22C32CC735286C0C"
+			}
+			"ptr_v1"
+			{
+				"gid" "5B4A5D066257117EA4243EDB9962ABFF"
+				"size" "76C4C6BB25D4BD32548053E87F66319E"
+				"download" "90392339F3A4A97F51854CF6AF51EE49"
+			}
+		}
+	}
+	"1566694"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "859591248446794243"
+				"size" "7425"
+				"download" "3920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"prepublish"
+			{
+				"gid" "9D1B19499A2645D4BB95D189E6BA31D0"
+				"size" "EF03490986C2417476D7E928006274FE"
+				"download" "1FB59D948FC3D3800DF82D960139BBBF"
+			}
+			"ptr_release"
+			{
+				"gid" "80CDCC20BD6CCF2614D3F9D3B3003969"
+				"size" "94357DD7506CA8C1C9A81DA9C3605FD5"
+				"download" "523641ABDD41C6AD506EB13C6B2E1745"
+			}
+			"ptr_v1"
+			{
+				"gid" "C02794E216CD447FE95AFBAB8B05C96F"
+				"size" "D56FC5FC6A163E3B6A9E4CD226A96AE1"
+				"download" "D10C1767618AF56AC39CE471C265E5C1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15658381"
+			"timeupdated" "1726020172"
+		}
+		"20230526"
+		{
+			"buildid" "11325198"
+			"pwdrequired" "1"
+			"timeupdated" "1685099563"
+		}
+		"betav5_1"
+		{
+			"buildid" "12783326"
+			"pwdrequired" "1"
+			"timeupdated" "1701962335"
+		}
+		"betav5_2"
+		{
+			"buildid" "12947788"
+			"pwdrequired" "1"
+			"timeupdated" "1702448692"
+		}
+		"compatibility"
+		{
+			"buildid" "13691829"
+			"pwdrequired" "1"
+			"timeupdated" "1710138630"
+		}
+		"lqabranch"
+		{
+			"buildid" "13819152"
+			"pwdrequired" "1"
+			"timeupdated" "1711090915"
+		}
+		"profiler"
+		{
+			"buildid" "11279160"
+			"pwdrequired" "1"
+			"timeupdated" "1684907703"
+		}
+		"releasev0.3"
+		{
+			"buildid" "13668776"
+			"pwdrequired" "1"
+			"timeupdated" "1709812934"
+		}
+		"releasev0.4"
+		{
+			"buildid" "13770080"
+			"pwdrequired" "1"
+			"timeupdated" "1710732153"
+		}
+		"releasev0.5"
+		{
+			"buildid" "13937361"
+			"pwdrequired" "1"
+			"timeupdated" "1712156155"
+		}
+		"develop"
+		{
+			"buildid" "14199825"
+			"pwdrequired" "1"
+			"timeupdated" "1714296704"
+		}
+		"prepublish"
+		{
+			"buildid" "15658359"
+			"pwdrequired" "1"
+			"timeupdated" "1726019999"
+		}
+		"ptr_release"
+		{
+			"buildid" "15658362"
+			"pwdrequired" "1"
+			"timeupdated" "1726020217"
+		}
+		"ptr_v1"
+		{
+			"buildid" "15658362"
+			"pwdrequired" "1"
+			"timeupdated" "1726020012"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "536870912"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "U01/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "U01/Saved/SaveGames/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "U01/Saved/SaveGames/{64BitSteamID}Pioneer"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
