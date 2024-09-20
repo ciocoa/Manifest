@@ -1,0 +1,118 @@
+"appid" "2302890"
+"common"
+{
+	"name" "Touhou Hero of Ice Fairy - New Supporter Pack"
+	"type" "DLC"
+	"parent" "1955830"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "东方冰之勇者记 - 新支持者包"
+		"tchinese" "東方冰之勇者記 - 新支持者包"
+		"japanese" "東方アイスフェアリー勇者記 - 新サポーターパック"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1677786399"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GAMEPULSE 游戏脉冲"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GAMEPULSE 游戏脉冲"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677801174"
+	"gameid" "2302890"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "122"
+		"3" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"dlcforappid" "1955830"
+	"mustownapptopurchase" "1955830"
+	"developer" "GAMEPULSE 游戏脉冲"
+	"publisher" "GAMEPULSE 游戏脉冲"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2302890"
+	{
+		"dlcappid" "2302890"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1402550920688678081"
+				"size" "2285968228"
+				"download" "2182145472"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14845936"
+			"timeupdated" "1719411193"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24127559"
+"_sha" "5dbda5cf68b396f1e1dbdb194fcc868e8b6d6e7d"
+"_size" "2017"
