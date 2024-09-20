@@ -1,0 +1,5 @@
+httpx
+vdf
+colorama
+colorlog
+retrying
